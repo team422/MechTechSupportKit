@@ -1,0 +1,31 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.server.launchMode": "Standard",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "bin/": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+        "**/*~": true
+    },
+    "files.insertFinalNewline": true,
+    "java.codeGeneration.generateComments": true,
+    "editor.detectIndentation": false,
+    "editor.autoIndent": "full",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "java.format.enabled": true,
+    "java.format.comments.enabled": false,
+    "java.format.onType.enabled": true,
+    "editor.formatOnSave": true,
+    "java.saveActions.organizeImports": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
